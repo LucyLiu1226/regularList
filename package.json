@@ -1,0 +1,19 @@
+{
+  "name": "regularlist",
+  "version": "1.0.0",
+  "description": "正则表达式库",
+  "main": "utils/regexList.js",
+  "scripts": {
+    "postversion": "git push --follow-tags",
+    "release": "standard-version"
+  },
+  "keywords": [
+    "正则表达式库",
+    "reg"
+  ],
+  "author": "liuyishi",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
