@@ -1,6 +1,6 @@
 {
   "name": "regularlist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "正则表达式库",
   "main": "utils/regexList.js",
   "scripts": {
